@@ -1,0 +1,5 @@
+node_modules/
+screenshots/
+.env
+daily_data.json
+daily_report.html
